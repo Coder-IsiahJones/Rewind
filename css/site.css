@@ -9,6 +9,10 @@
     font-family: 'Graduate', cursive;
 }
 
+.tempColor {
+    color: #FF0505;
+}
+
 body {
     color: var(--dark-color);
 }
