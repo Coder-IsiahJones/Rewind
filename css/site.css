@@ -1,8 +1,12 @@
 :root {
-    --primary-color: #1d5888;
-    --secondary-color: #FFC371;
+    --primary-color: #000000;
+    --secondary-color: #FF0505;
     --dark-color: #292929;
     --white-color: #dff3e4;
+}
+
+.logoFont {
+    font-family: 'Graduate', cursive;
 }
 
 body {
@@ -64,7 +68,7 @@ footer .social>a:hover {
 /*  */
 
 .checklist>li i {
-    color: #E83A95;
+    color: #FF0505;
 }
 
 /* Prism */
